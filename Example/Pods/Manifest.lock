@@ -1,0 +1,22 @@
+PODS:
+  - DSDropDownController (0.1.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - DSDropDownController (from `../`)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+
+EXTERNAL SOURCES:
+  DSDropDownController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DSDropDownController: 8fcfbe1bcfe1cc60a600f60d156eaaf5da3e79d8
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 8429ac3015e179fb205b150207307ff3e241ad75
+
+COCOAPODS: 1.4.0
